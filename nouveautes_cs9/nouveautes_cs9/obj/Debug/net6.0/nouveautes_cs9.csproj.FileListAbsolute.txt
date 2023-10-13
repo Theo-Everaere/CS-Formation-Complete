@@ -1,0 +1,14 @@
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\bin\Debug\net6.0\nouveautes_cs9.exe
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\bin\Debug\net6.0\nouveautes_cs9.deps.json
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\bin\Debug\net6.0\nouveautes_cs9.runtimeconfig.json
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\bin\Debug\net6.0\nouveautes_cs9.dll
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\bin\Debug\net6.0\nouveautes_cs9.pdb
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\nouveautes_cs9.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\nouveautes_cs9.AssemblyInfoInputs.cache
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\nouveautes_cs9.AssemblyInfo.cs
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\nouveautes_cs9.csproj.CoreCompileInputs.cache
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\nouveautes_cs9.dll
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\refint\nouveautes_cs9.dll
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\nouveautes_cs9.pdb
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\nouveautes_cs9.genruntimeconfig.cache
+D:\CS projects\nouveautes_cs9\nouveautes_cs9\obj\Debug\net6.0\ref\nouveautes_cs9.dll

@@ -1,0 +1,14 @@
+D:\CS projects\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.exe
+D:\CS projects\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.deps.json
+D:\CS projects\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.runtimeconfig.json
+D:\CS projects\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.dll
+D:\CS projects\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.pdb
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.AssemblyInfoInputs.cache
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.AssemblyInfo.cs
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.csproj.CoreCompileInputs.cache
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.dll
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\refint\programme_fichiers.dll
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.pdb
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.genruntimeconfig.cache
+D:\CS projects\programme_fichiers\programme_fichiers\obj\Debug\net6.0\ref\programme_fichiers.dll

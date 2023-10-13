@@ -1,0 +1,14 @@
+D:\CS projects\programme_delegate\programme_delegate\bin\Debug\net6.0\programme_delegate.exe
+D:\CS projects\programme_delegate\programme_delegate\bin\Debug\net6.0\programme_delegate.deps.json
+D:\CS projects\programme_delegate\programme_delegate\bin\Debug\net6.0\programme_delegate.runtimeconfig.json
+D:\CS projects\programme_delegate\programme_delegate\bin\Debug\net6.0\programme_delegate.dll
+D:\CS projects\programme_delegate\programme_delegate\bin\Debug\net6.0\programme_delegate.pdb
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\programme_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\programme_delegate.AssemblyInfoInputs.cache
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\programme_delegate.AssemblyInfo.cs
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\programme_delegate.csproj.CoreCompileInputs.cache
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\programme_delegate.dll
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\refint\programme_delegate.dll
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\programme_delegate.pdb
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\programme_delegate.genruntimeconfig.cache
+D:\CS projects\programme_delegate\programme_delegate\obj\Debug\net6.0\ref\programme_delegate.dll

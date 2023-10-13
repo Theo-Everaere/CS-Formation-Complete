@@ -1,0 +1,17 @@
+D:\CS projects\le_format_json\le_format_json\bin\Debug\net6.0\le_format_json.exe
+D:\CS projects\le_format_json\le_format_json\bin\Debug\net6.0\le_format_json.deps.json
+D:\CS projects\le_format_json\le_format_json\bin\Debug\net6.0\le_format_json.runtimeconfig.json
+D:\CS projects\le_format_json\le_format_json\bin\Debug\net6.0\le_format_json.dll
+D:\CS projects\le_format_json\le_format_json\bin\Debug\net6.0\le_format_json.pdb
+D:\CS projects\le_format_json\le_format_json\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.csproj.AssemblyReference.cache
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.AssemblyInfoInputs.cache
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.AssemblyInfo.cs
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.csproj.CoreCompileInputs.cache
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.csproj.CopyComplete
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.dll
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\refint\le_format_json.dll
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.pdb
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\le_format_json.genruntimeconfig.cache
+D:\CS projects\le_format_json\le_format_json\obj\Debug\net6.0\ref\le_format_json.dll

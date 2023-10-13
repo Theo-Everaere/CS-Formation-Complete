@@ -1,0 +1,14 @@
+D:\CS projects\AsyncDelegate\AsyncDelegate\bin\Debug\net6.0\AsyncDelegate.exe
+D:\CS projects\AsyncDelegate\AsyncDelegate\bin\Debug\net6.0\AsyncDelegate.deps.json
+D:\CS projects\AsyncDelegate\AsyncDelegate\bin\Debug\net6.0\AsyncDelegate.runtimeconfig.json
+D:\CS projects\AsyncDelegate\AsyncDelegate\bin\Debug\net6.0\AsyncDelegate.dll
+D:\CS projects\AsyncDelegate\AsyncDelegate\bin\Debug\net6.0\AsyncDelegate.pdb
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\AsyncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\AsyncDelegate.AssemblyInfoInputs.cache
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\AsyncDelegate.AssemblyInfo.cs
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\AsyncDelegate.csproj.CoreCompileInputs.cache
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\AsyncDelegate.dll
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\refint\AsyncDelegate.dll
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\AsyncDelegate.pdb
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\AsyncDelegate.genruntimeconfig.cache
+D:\CS projects\AsyncDelegate\AsyncDelegate\obj\Debug\net6.0\ref\AsyncDelegate.dll

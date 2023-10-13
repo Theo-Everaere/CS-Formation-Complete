@@ -1,0 +1,14 @@
+D:\CS projects\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.exe
+D:\CS projects\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.deps.json
+D:\CS projects\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.runtimeconfig.json
+D:\CS projects\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.dll
+D:\CS projects\premier_programme\premier_programme\bin\Debug\net6.0\premier_programme.pdb
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.AssemblyInfoInputs.cache
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.AssemblyInfo.cs
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.csproj.CoreCompileInputs.cache
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.dll
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\refint\premier_programme.dll
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.pdb
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\premier_programme.genruntimeconfig.cache
+D:\CS projects\premier_programme\premier_programme\obj\Debug\net6.0\ref\premier_programme.dll

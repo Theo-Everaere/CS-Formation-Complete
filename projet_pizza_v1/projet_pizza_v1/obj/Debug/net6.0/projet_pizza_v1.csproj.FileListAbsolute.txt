@@ -1,0 +1,14 @@
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\bin\Debug\net6.0\projet_pizza_v1.exe
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\bin\Debug\net6.0\projet_pizza_v1.deps.json
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\bin\Debug\net6.0\projet_pizza_v1.runtimeconfig.json
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\bin\Debug\net6.0\projet_pizza_v1.dll
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\bin\Debug\net6.0\projet_pizza_v1.pdb
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\projet_pizza_v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\projet_pizza_v1.AssemblyInfoInputs.cache
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\projet_pizza_v1.AssemblyInfo.cs
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\projet_pizza_v1.csproj.CoreCompileInputs.cache
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\projet_pizza_v1.dll
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\refint\projet_pizza_v1.dll
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\projet_pizza_v1.pdb
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\projet_pizza_v1.genruntimeconfig.cache
+D:\CS projects\projet_pizza_v1\projet_pizza_v1\obj\Debug\net6.0\ref\projet_pizza_v1.dll

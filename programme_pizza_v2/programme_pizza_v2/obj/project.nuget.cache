@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkmRa2MFR+EwO8TgFWYeZZrvCs1Piefb2ad8hmPiMZdsX6lLmscaS+AfWxMqRqM2p9rU899AIWy7LxsG71IPIw==",
+  "success": true,
+  "projectFilePath": "D:\\CS projects\\programme_pizza_v2\\programme_pizza_v2\\programme_pizza_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theo-\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

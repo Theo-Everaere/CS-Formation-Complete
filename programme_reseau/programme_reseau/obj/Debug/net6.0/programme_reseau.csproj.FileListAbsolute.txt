@@ -1,0 +1,14 @@
+D:\CS projects\programme_reseau\programme_reseau\bin\Debug\net6.0\programme_reseau.exe
+D:\CS projects\programme_reseau\programme_reseau\bin\Debug\net6.0\programme_reseau.deps.json
+D:\CS projects\programme_reseau\programme_reseau\bin\Debug\net6.0\programme_reseau.runtimeconfig.json
+D:\CS projects\programme_reseau\programme_reseau\bin\Debug\net6.0\programme_reseau.dll
+D:\CS projects\programme_reseau\programme_reseau\bin\Debug\net6.0\programme_reseau.pdb
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\programme_reseau.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\programme_reseau.AssemblyInfoInputs.cache
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\programme_reseau.AssemblyInfo.cs
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\programme_reseau.csproj.CoreCompileInputs.cache
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\programme_reseau.dll
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\refint\programme_reseau.dll
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\programme_reseau.pdb
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\programme_reseau.genruntimeconfig.cache
+D:\CS projects\programme_reseau\programme_reseau\obj\Debug\net6.0\ref\programme_reseau.dll

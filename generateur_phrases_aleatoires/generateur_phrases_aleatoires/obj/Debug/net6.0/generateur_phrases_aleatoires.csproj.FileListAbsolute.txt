@@ -1,0 +1,14 @@
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.exe
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.deps.json
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.runtimeconfig.json
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.dll
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.pdb
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.AssemblyInfoInputs.cache
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.AssemblyInfo.cs
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.csproj.CoreCompileInputs.cache
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.dll
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\refint\generateur_phrases_aleatoires.dll
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.pdb
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.genruntimeconfig.cache
+D:\CS projects\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\ref\generateur_phrases_aleatoires.dll

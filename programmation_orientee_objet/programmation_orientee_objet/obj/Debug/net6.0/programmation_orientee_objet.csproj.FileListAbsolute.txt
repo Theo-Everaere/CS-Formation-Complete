@@ -1,0 +1,14 @@
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\bin\Debug\net6.0\programmation_orientee_objet.exe
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\bin\Debug\net6.0\programmation_orientee_objet.deps.json
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\bin\Debug\net6.0\programmation_orientee_objet.runtimeconfig.json
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\bin\Debug\net6.0\programmation_orientee_objet.dll
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\bin\Debug\net6.0\programmation_orientee_objet.pdb
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\programmation_orientee_objet.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\programmation_orientee_objet.AssemblyInfoInputs.cache
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\programmation_orientee_objet.AssemblyInfo.cs
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\programmation_orientee_objet.csproj.CoreCompileInputs.cache
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\programmation_orientee_objet.dll
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\refint\programmation_orientee_objet.dll
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\programmation_orientee_objet.pdb
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\programmation_orientee_objet.genruntimeconfig.cache
+D:\CS projects\programmation_orientee_objet\programmation_orientee_objet\obj\Debug\net6.0\ref\programmation_orientee_objet.dll

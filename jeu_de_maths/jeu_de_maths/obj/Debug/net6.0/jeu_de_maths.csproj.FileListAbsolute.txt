@@ -1,0 +1,14 @@
+D:\CS projects\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.exe
+D:\CS projects\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.deps.json
+D:\CS projects\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.runtimeconfig.json
+D:\CS projects\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.dll
+D:\CS projects\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.pdb
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.AssemblyInfoInputs.cache
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.AssemblyInfo.cs
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.csproj.CoreCompileInputs.cache
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.dll
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\refint\jeu_de_maths.dll
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.pdb
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.genruntimeconfig.cache
+D:\CS projects\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\ref\jeu_de_maths.dll

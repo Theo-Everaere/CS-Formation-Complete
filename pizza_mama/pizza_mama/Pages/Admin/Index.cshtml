@@ -1,0 +1,32 @@
+﻿@page
+@model pizza_mama.Pages.Admin.IndexModel
+@{
+}
+
+@if (Model.isDevelopmentMode)
+{
+    <p>En Mode Développement</p>
+}
+
+<h1>Vous devez vous identifier</h1>
+
+@if (Model.DisplayInvalidAccountMessage)
+{
+    <div class="alert alert-danger" role="alert">
+        Erreur les identifiants ne sont pas valides
+    </div>
+}
+<br />
+
+<form method="post">
+    <div class="form-group">
+        <label for="username">Identifiant</label>
+        <input type="text" class="form-control" name="username" id="username">
+    </div>
+    <div class="form-group">
+        <label for="password">Mot de passe</label>
+        <input type="password" name="password" class="form-control" id="password">
+    </div>
+
+    <button class="btn btn-primary">Se connecter</button>
+</form>
